@@ -1,0 +1,17 @@
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.AssemblyInfoInputs.cache
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.AssemblyInfo.cs
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.csproj.CoreCompileInputs.cache
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\DotNet8FeaturesApp.exe
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\DotNet8FeaturesApp.deps.json
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\DotNet8FeaturesApp.runtimeconfig.json
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\DotNet8FeaturesApp.dll
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\DotNet8FeaturesApp.pdb
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\bin\Debug\net8.0\System.Device.Gpio.dll
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.csproj.AssemblyReference.cache
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8F.DF68157A.Up2Date
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.dll
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\refint\DotNet8FeaturesApp.dll
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.pdb
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\DotNet8FeaturesApp.genruntimeconfig.cache
+E:\GitHub\dotnet-8-features\DotNet8FeaturesApp\DotNet8FeaturesApp\obj\Debug\net8.0\ref\DotNet8FeaturesApp.dll

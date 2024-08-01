@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9l9lSV+IRYyv0TxJ1RKEoVR3+Qqm6Wo3iGUDXpk7uXHoK5LzxLj+T6mH/NxkWR1aBpf1dtrKdd/L0LTNy45lIw==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\dotnet-8-features\\DotNet8FeaturesApp\\DotNet8FeaturesApp\\DotNet8FeaturesApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\system.device.gpio\\3.2.0\\system.device.gpio.3.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
