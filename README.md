@@ -1,7 +1,7 @@
 # Code Examples for .NET 8 Features with C# 12 (dotnet-8-features)
 Demo repository showcasing new features and improvements in .NET 8 with practical code examples in C# 12 by Ziggy Rafiq
 
-[** Article Published on C# Corner Click Here to Access It **](https://www.c-sharpcorner.com/article/code-examples-for-net-8-features-with-c-sharp-12/)
+**[Article Published on C# Corner Click Here to Access It](https://www.c-sharpcorner.com/article/code-examples-for-net-8-features-with-c-sharp-12/)**
 
 ## Getting Started
 Clone this repository to your local machine to get started using the resources:
